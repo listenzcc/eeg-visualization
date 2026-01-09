@@ -1,5 +1,5 @@
 """
-File: main.py
+File: method1.py
 Author: Chuncheng Zhang
 Date: 2026-01-09
 Copyright & Email: chuncheng.zhang@ia.ac.cn
